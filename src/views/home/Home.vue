@@ -30,7 +30,6 @@ import BaseData from "./BaseData.vue";
 .home__img {
 	background-color: #333333;
 	width: 300px;
-	box-shadow: inset 0 0 0 6px rgba(0, 0, 0, 0.1);
 	height: 300px;
 	order: 1;
 	justify-self: center;
@@ -56,10 +55,6 @@ import BaseData from "./BaseData.vue";
 		grid-template-columns: 100px repeat(2, 1fr);
 		column-gap: 1.25rem;
 	}
-
-	.home__img {
-		box-shadow: inset 0 0 0 8px rgb(255 255 255 / 30%);
-	}
 }
 
 @media screen and (max-width: 768px) {
@@ -71,7 +66,6 @@ import BaseData from "./BaseData.vue";
 	.home__img {
 		order: initial;
 		justify-self: initial;
-		box-shadow: inset 0 0 0 8px rgb(255 255 255 / 30%);
 		width: 200px;
 		height: 200px;
 	}

@@ -20,7 +20,7 @@ const info = ref([
 	},
 	{
 		icon: "bxl-github",
-		name: "https://github.com/truong0509",
+		name: "https://github.com/truongnq0509",
 	},
 	{
 		icon: "bxl-facebook-circle",

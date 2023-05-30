@@ -224,7 +224,7 @@ const sendEmail = async () => {
 	left: 1.25rem;
 	font-size: var(--small-font-size);
 	padding: 0.25rem;
-	background-color: var(--body-color);
+	background-color: #fff;
 	z-index: 10;
 }
 

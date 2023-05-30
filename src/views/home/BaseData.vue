@@ -1,5 +1,5 @@
 <script setup>
-import CV from "@/assets/John-Cv.pdf";
+import CV from "@/assets/CV_NGUYEN_QUANG_TRUONG.pdf";
 </script>
 
 <template>

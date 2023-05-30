@@ -16,14 +16,14 @@ const projects = ref([
 		live: "https://dev-music-zeta.vercel.app",
 		code: "https://github.com/truongnq0509/dev-music.git",
 		desc: "Dev Music là một website nghe nhạc. Với các tính năng chính: tìm kiếm, lọc bài hát - video, đăng nhập bằng google, thêm bài hát yêu thích, tương thích trên mọi thiết bị,...",
-		technogory: ["#react", "#redux", "#nodejs", "#mongodb", "..."],
+		technogory: ["#react", "#redux", "#material ui", "#firebase", "..."],
 	},
 	{
 		name: "Trường Đép",
 		thumbnail: "truong-dep.png",
-		live: "https://dev-music-zeta.vercel.app",
-		code: "https://github.com/truongnq0509/dev-music.git",
-		desc: "Đây là một dự án được tôi phát triển quá trình vừa học, vừa làm khi tiếp cận với một framework mới đó là Vuejs",
+		live: "https://truong-dev.vercel.app",
+		code: "https://github.com/truongnq0509/postfolio.git",
+		desc: "Đây là một dự án được tôi phát triển quá trình vừa học, vừa làm khi tiếp cận với framework Vuejs 😀😀😀",
 		technogory: ["#vue", "#vue-router", "#animation.css", "..."],
 	},
 ]);
